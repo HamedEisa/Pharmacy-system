@@ -1,0 +1,15 @@
+G:\مشاريع\مشروع الصيدليه\bin\Debug\net6.0\مشروع الصيدليه.exe
+G:\مشاريع\مشروع الصيدليه\bin\Debug\net6.0\مشروع الصيدليه.deps.json
+G:\مشاريع\مشروع الصيدليه\bin\Debug\net6.0\مشروع الصيدليه.runtimeconfig.json
+G:\مشاريع\مشروع الصيدليه\bin\Debug\net6.0\مشروع الصيدليه.dll
+G:\مشاريع\مشروع الصيدليه\bin\Debug\net6.0\مشروع الصيدليه.pdb
+G:\مشاريع\مشروع الصيدليه\obj\Debug\net6.0\مشروع الصيدليه.csproj.AssemblyReference.cache
+G:\مشاريع\مشروع الصيدليه\obj\Debug\net6.0\مشروع الصيدليه.GeneratedMSBuildEditorConfig.editorconfig
+G:\مشاريع\مشروع الصيدليه\obj\Debug\net6.0\مشروع الصيدليه.AssemblyInfoInputs.cache
+G:\مشاريع\مشروع الصيدليه\obj\Debug\net6.0\مشروع الصيدليه.AssemblyInfo.cs
+G:\مشاريع\مشروع الصيدليه\obj\Debug\net6.0\مشروع الصيدليه.csproj.CoreCompileInputs.cache
+G:\مشاريع\مشروع الصيدليه\obj\Debug\net6.0\مشروع الصيدليه.dll
+G:\مشاريع\مشروع الصيدليه\obj\Debug\net6.0\refint\مشروع الصيدليه.dll
+G:\مشاريع\مشروع الصيدليه\obj\Debug\net6.0\مشروع الصيدليه.pdb
+G:\مشاريع\مشروع الصيدليه\obj\Debug\net6.0\مشروع الصيدليه.genruntimeconfig.cache
+G:\مشاريع\مشروع الصيدليه\obj\Debug\net6.0\ref\مشروع الصيدليه.dll
